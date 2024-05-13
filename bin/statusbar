@@ -1,0 +1,5 @@
+#!/bin/bash
+
+/bin/echo "HD: $(/Users/rnsavinelli/.local/bin/hd)\
+    RAM: $(/Users/rnsavinelli/.local/bin/ram)\
+    XSW: $(/Users/rnsavinelli/.local/bin/swap)"

@@ -1,0 +1,3 @@
+#!/bin/bash
+
+ffplay -nodisp https://wgbh-live.streamguys1.com/classical-hi

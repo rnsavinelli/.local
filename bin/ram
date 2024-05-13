@@ -1,0 +1,3 @@
+#!/bin/bash
+
+/usr/local/bin/free | /usr/bin/grep --colour=never Mem |  /usr/bin/awk -v CONVFMT=%.4g '{s=($3)*100/$2} END {print s "%"}'
