@@ -1,4 +1,4 @@
-# .scripts
+# .local
 To index all the scripts to your $PATH variable, edit your `.zshrc` or  file and add:
 ```
 export PATH=$PATH:$HOME/path/to/bin
